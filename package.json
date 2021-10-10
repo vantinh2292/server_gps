@@ -1,0 +1,25 @@
+{
+  "name": "run_server_gps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.22.0",
+    "body-parser": "^1.19.0",
+    "config": "^3.3.6",
+    "firebase": "^8.3.1",
+    "socket.io": "^4.0.0"
+  },
+  "devDependencies": {
+    "axios": "^0.21.4",
+    "body-parser": "^1.19.0",
+    "config": "^3.3.6",
+    "firebase": "^8.3.1",
+    "socket.io": "^4.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,56 @@
+{
+  "_from": "lorawan-js",
+  "_id": "lorawan-js@0.1.1",
+  "_inBundle": false,
+  "_integrity": "sha1-frV0X+TbMbwJfL9s4Bhi9Xj7p+E=",
+  "_location": "/lorawan-js",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "lorawan-js",
+    "name": "lorawan-js",
+    "escapedName": "lorawan-js",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/lorawan-js/-/lorawan-js-0.1.1.tgz",
+  "_shasum": "7eb5745fe4db31bc097cbf6ce01862f578fba7e1",
+  "_spec": "lorawan-js",
+  "_where": "C:\\Users\\tinh-van.le\\Desktop\\Server_Lorawan",
+  "author": {
+    "name": "Dmitry Sukhamera,",
+    "email": "suhamera@ioberry.com"
+  },
+  "bugs": {
+    "url": "https://github.com/ioberry/LoraWAN-Server/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "crypto-js": "^3.1.0"
+  },
+  "deprecated": false,
+  "description": "Library to create LoRaWAN network-server",
+  "homepage": "https://github.com/ioberry/LoraWAN-Server",
+  "keywords": [
+    "lora",
+    "lorawan",
+    "iot"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "lorawan-js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ioberry/LoraWAN-Server.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.1"
+}
